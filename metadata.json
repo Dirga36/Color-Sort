@@ -1,0 +1,6 @@
+{
+  "name": "Color Sort",
+  "description": "A relaxing logic puzzle game where you sort mixed colors across glass containers until each container is neatly sorted.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
